@@ -1,6 +1,6 @@
 # Multimodal ML Model for Social Understanding
 
-This our final project submission for CMU 11-777 Multimodal Machine Learning. We extended the high-performing [FrozenBiLM](https://github.com/antoyang/FrozenBiLM) by fine tuning it on the [Social-IQ 2]() dataset. This produced a multimodal model which used visual, audio, and text information to reason about the social situations depicted in a diverse set of YouTube videos. We further augmented the model by providing extracted body pose and facial landmark features to measure the contribution of this added information to model understanding.
+This our final project submission for CMU 11-777 Multimodal Machine Learning. We extended the high-performing [FrozenBiLM](https://github.com/antoyang/FrozenBiLM) by fine tuning it on the [Social-IQ 2](https://cmu-multicomp-lab.github.io/social-iq-2.0/) dataset. This produced a multimodal model which used visual, audio, and text information to reason about the social situations depicted in a diverse set of YouTube videos. We further augmented the model by providing extracted body pose and facial landmark features to measure the contribution of this added information to model understanding.
 
 ### Prerequisites
 
